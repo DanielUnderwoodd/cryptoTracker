@@ -9,7 +9,7 @@ export default function MainNavbar() {
       <Navbar variant="dark">
         <Container>
           <Navbar.Brand>
-            Power By
+            Powered By
             <Binance />
           </Navbar.Brand>
           <Nav className="me-auto">
