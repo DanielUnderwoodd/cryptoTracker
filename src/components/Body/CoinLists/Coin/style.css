@@ -1,0 +1,25 @@
+.coin-card {
+  width: 186px;
+  color: white !important;
+}
+.card {
+  background-color: #000 !important;
+}
+.col .card {
+  margin: auto;
+}
+
+.coin-card-success {
+  background: linear-gradient(0deg, #01250d, #000);
+}
+
+.coin-card-danger {
+  background: linear-gradient(0deg, #2e020c, #170106);
+}
+
+.arrow-navigation {
+  position: absolute;
+  right: 17px;
+  top: 48%;
+  font-size: 20px;
+}
